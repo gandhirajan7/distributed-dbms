@@ -1,0 +1,3 @@
+
+[Sun Apr 10 21:56:08 ADT 2022] [Executed Query : inserted the date] [[
+[Sun Apr 10 22:08:15 ADT 2022] [Executed Query : insert into student (sid, name, mark1) values (44,lol,100)] [[

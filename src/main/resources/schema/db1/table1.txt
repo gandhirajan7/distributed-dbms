@@ -1,0 +1,8 @@
+Primary_key|Sno
+foreign_key|departmentId$$table2->deptId, marks$$table3->marks
+Column|Sno, int|Sname, varchar|SMarks,int
+Row|1|Adarsh|89
+Row|2|Gandhi|86
+Row|3|Sai|80
+Row|4|Prakrut|83
+Row|5|Keyur|81

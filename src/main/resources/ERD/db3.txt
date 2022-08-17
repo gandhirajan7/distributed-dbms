@@ -1,0 +1,10 @@
+TABLE NAME : table3
+COLUMNS in table : departmentId,int, deparmentName,varchar, SMarks, int
+
+RelationShip between tables : 
+table3table2 one to many relationship -  ,table2,table3,
+TABLE NAME : table3
+COLUMNS in table : departmentId,int, deparmentName,varchar, SMarks, int
+
+RelationShip between tables : 
+table3table2 one to many relationship -  ,table2,table3,

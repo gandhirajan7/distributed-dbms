@@ -1,0 +1,7 @@
+
+[Sun Apr 10 21:48:44 ADT 2022] [[Current Concurrent Transaction : Total Transaction Execution Time : 328000] [
+[Sun Apr 10 21:49:58 ADT 2022] [[Current Concurrent Transaction : Total Transaction Execution Time : 29699000] [
+[Sun Apr 10 21:50:50 ADT 2022] [[Current Concurrent Transaction : Total Transaction Execution Time : 7164701] [
+[Sun Apr 10 21:54:49 ADT 2022] [[Current Concurrent Transaction : Total Transaction Execution Time : 187612156900] [
+[Sun Apr 10 21:56:08 ADT 2022] [[Current Concurrent Transaction : Total Transaction Execution Time : 8659534600] [
+[Sun Apr 10 22:08:15 ADT 2022] [[Current Concurrent Transaction : Total Transaction Execution Time : 9213300] [

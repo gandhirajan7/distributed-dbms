@@ -1,0 +1,9 @@
+primary_key|sid
+foreign_key|name
+Column|sid,int|name,varchar|mark1,int
+Row|1|gandhi|80
+Row|2|keyur|100
+Row|3|prakrut|60
+Row|345|prakrut|150
+Row|456|pra|100
+Row|44|lol|100
